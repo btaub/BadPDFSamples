@@ -1,0 +1,2 @@
+# BadPDFSamples
+BadPDF compressed
